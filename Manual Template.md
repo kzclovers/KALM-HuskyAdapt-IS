@@ -1,6 +1,6 @@
 # “Toy Name” Adaptation Guide
 
-<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="800" 
+<img src="https://media.tenor.com/fdeESlacvUYAAAAC/banana-cat.gif" alt="Picture"  width="800" 
         height="600"  style="display: block;  margin: 0 auto" />
 
 ### Introduction
