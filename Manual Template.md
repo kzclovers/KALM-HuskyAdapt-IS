@@ -1,7 +1,7 @@
 # “Toy Name”
 ## Adaptation Guide
 
-<img src="https://via.placeholder.com/300x200" alt="Picture"  width="800" 
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="800" 
         height="600"  style="display: block;  margin: 0 auto" />
 
 ### Introduction
