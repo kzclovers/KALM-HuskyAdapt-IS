@@ -126,17 +126,17 @@ Full Procedure
 
 ---
 
-####Part 4: Soldering 
+#### Part 4: Soldering 
 Caution:
 Tip: 
-	#####Step 1:
+	##### Step 1:
 		
 		*
 		*
 		*
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 ---
-#####Step 2:
+##### Step 2:
 		*
 		*
 		*
