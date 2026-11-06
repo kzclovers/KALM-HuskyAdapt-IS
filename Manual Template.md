@@ -1,5 +1,4 @@
-# “Toy Name”
-## Adaptation Guide
+# “Toy Name” <br> Adaptation Guide
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 
@@ -92,8 +91,8 @@ Full Procedure
 
 ##### Step 3
 		*
-*
-*
+* placeholder 
+* placeholder
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 ---
