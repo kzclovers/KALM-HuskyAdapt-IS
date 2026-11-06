@@ -11,10 +11,10 @@ For more information, reach out to HuskyADAPT at adaptuw@uw.edu.
 ### Toy Details
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-####Toy Features
-* feature 1
-* feature 2
-* feature 3
+#### Toy Features
+- feature 1
+- feature 2
+-  feature 3
 
 #### Adaption Difficulty Level
 ---
@@ -73,39 +73,43 @@ Full Procedure
 
 ---
 #### Part 2: Circuitry Assessment 
-	
-#####Step 1
-*
-*
-*
+
+##### Step 1
+- Placeholder
+- Placeholder
+- Placeholder
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 ---
-	#####Step 2
-* 
-*
-*
+
+##### Step 2
+- Placeholder
+- Placeholder
+- Placeholder
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /> </div>
 ---
-#####Step 3
+
+##### Step 3
 		*
 *
 *
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 ---
-	#####Step 4
-* 
-*
-*
+
+##### Step 4
+* Placeholder
+* Placeholder
+* Placeholder
 
 <div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
 ---
-#####Step 5
-		*
-*
-*
+
+##### Step 5
+- Placeholder
+- Placeholder
+- Placeholder
 
 ![Placeholder - alt text here](https://via.placeholder.com/300x200 "Sample Image") 
 ---
