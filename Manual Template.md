@@ -1,7 +1,6 @@
-# “Toy Name”
-## Adaptation Guide
+# “Toy Name” Adaptation Guide
 
-<img src="https://media.tenor.com/fdeESlacvUYAAAAC/banana-cat.gif" alt="Picture"  width="800" 
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="800" 
         height="600"  style="display: block;  margin: 0 auto" />
 
 ### Introduction
@@ -45,32 +44,38 @@ Full Procedure
 ---
 #### Part 1: Toy Preparation
 ##### Step 1: 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 
 ---
 ##### Step 2:
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 ##### Step 3: 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 ##### Step 4:
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 ##### Step 5: 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 ##### Step 6:
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 #### Part 2: Circuitry Assessment 
@@ -80,7 +85,8 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
 
 ##### Step 2
@@ -88,15 +94,17 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /> </div>
----
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
+--- 
 
 ##### Step 3
-		*
-*
-*
+- Placeholder
+- Placeholder
+- Placeholder
 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
 
 ##### Step 4
@@ -104,7 +112,8 @@ Full Procedure
 * Placeholder
 * Placeholder
 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
 
 ##### Step 5
@@ -112,34 +121,41 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-![Placeholder - alt text here](https://i.imgflip.com/8tczjr.png "Sample Image") 
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
 
 #### Part 3: Exit Hole and Audio Jack Placement
 ##### Step 1: 
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 ##### Step 2:
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /> </div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 
 ---
 
 #### Part 4: Soldering 
 Caution:
 Tip: 
-	##### Step 1:
+
+##### Step 1:
 		
 		*
 		*
 		*
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
+
 ##### Step 2:
 		*
 		*
 		*
-<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
+<img src="https://i.imgflip.com/8tczjr.png" alt="Picture"  width="300" 
+        height="200"  style="display: block;  margin: 0 auto" />
 ---
 
