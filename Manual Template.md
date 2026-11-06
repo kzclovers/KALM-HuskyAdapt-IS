@@ -45,32 +45,32 @@ Full Procedure
 ---
 #### Part 1: Toy Preparation
 ##### Step 1: 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 
 ---
 ##### Step 2:
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 
 ##### Step 3: 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 
 ##### Step 4:
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 
 ##### Step 5: 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 
 ##### Step 6:
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 #### Part 2: Circuitry Assessment 
@@ -80,7 +80,7 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 ---
 
 ##### Step 2
@@ -88,7 +88,7 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /> </div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /> </div>
 ---
 
 ##### Step 3
@@ -96,7 +96,7 @@ Full Procedure
 *
 *
 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 ---
 
 ##### Step 4
@@ -104,7 +104,7 @@ Full Procedure
 * Placeholder
 * Placeholder
 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 ---
 
 ##### Step 5
@@ -112,17 +112,17 @@ Full Procedure
 - Placeholder
 - Placeholder
 
-![Placeholder - alt text here](https://via.placeholder.com/300x200 "Sample Image") 
+![Placeholder - alt text here](https://i.imgflip.com/8tczjr.png "Sample Image") 
 ---
 
 #### Part 3: Exit Hole and Audio Jack Placement
 ##### Step 1: 
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 
 ---
 
 ##### Step 2:
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /> </div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /> </div>
 
 ---
 
@@ -134,12 +134,12 @@ Tip:
 		*
 		*
 		*
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 ---
 #####Step 2:
 		*
 		*
 		*
-<div style="text-align:center"><img src="https://via.placeholder.com/300x200" alt ="Alt Text here” /></div>
+<div style="text-align:center"><img src="https://i.imgflip.com/8tczjr.png" alt ="Alt Text here” /></div>
 ---
 
